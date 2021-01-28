@@ -11,7 +11,7 @@ if (num_1 == num_2){
     console.log(`Opción no valida`);
 }
 
-var num_3 = 800;
+var num_3 = 200;
 
 if (num_1 < num_2 || num_3 == num_2){
     console.log(`El numero ${num_1} es menor que ${num_2} y el numero ${num_3} no es igual al numero ${num_2}`);
